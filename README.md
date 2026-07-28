@@ -179,13 +179,6 @@ Designed UI components, posters, branding assets, and promotional creatives usin
 
 ---
 
-# 🌎 Languages
-
-- 🇮🇳 Marathi
-- 🇮🇳 Hindi
-- 🇬🇧 English
-
----
 
 # 📫 Connect with Me
 
