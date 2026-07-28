@@ -136,15 +136,6 @@ Worked on backend and frontend feature development using **Python**.
 <img src="https://streak-stats.demolab.com?user=shindeshreyas551&theme=github-dark"/>
 </p>
 
----
-
-## 🌍 Languages
-
-- English
-- Marathi
-- Hindi
-
----
 
 ## 🤝 Connect With Me
 
