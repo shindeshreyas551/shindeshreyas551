@@ -1,127 +1,143 @@
-
 <h1 align="center">Hi 👋, I'm Shreyas Shinde</h1>
-<h3 align="center">AI & Python Developer | Computer Science Student | Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 AI & Python Developer | Computer Science Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/shreyas992">
-    <img src="https://komarev.com/ghpvc/?username=shreyas992&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/shindeshreyas551">
+    <img src="https://komarev.com/ghpvc/?username=shindeshreyas551&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shindeshreyas551"><img src="https://img.shields.io/github/followers/shindeshreyas551?label=Followers&style=social"/></a>
+  <a href="https://github.com/shindeshreyas551"><img src="https://img.shields.io/github/stars/shindeshreyas551?affiliations=OWNER&style=social"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 🎓 Third-Year B.Tech Computer Science Engineering Student
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Python Development, and Web Technologies.
+💡 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Backend Development.**
 
-🚀 I enjoy building intelligent applications that solve real-world problems using AI and automation.
+🤖 Interested in building AI-powered applications, automation tools, and intelligent software solutions.
 
-🌱 Currently exploring
+🌱 Currently Learning
+
 - Large Language Models (LLMs)
 - Deep Learning
 - Computer Vision
-- Backend Development
 - REST APIs
+- Django & Flask
 
 💼 Former **LLM Post-Training Intern** at **Ethara AI**
 
-📫 **Email:** shindeshreyas551@gmail.com
+📫 **Email:** **shindeshreyas551@gmail.com**
 
 🔗 **LinkedIn:** https://linkedin.com/in/shreyas-shinde
 
+🌐 **GitHub:** https://github.com/shindeshreyas551
+
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js"/>
+</p>
 
----
+### Frameworks & Libraries
 
-### Frameworks
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask"/>
+</p>
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-# 💼 Experience
-
-## LLM Post-Training Intern
-**Ethara AI** *(Jan 2026 – Apr 2026)*
-
-- Worked on AI model evaluation and prompt optimization.
-- Assisted in data annotation and post-training workflows.
-- Collaborated on AI/ML research and development tasks.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🤖 SmartGuide
-AI-powered event planning assistant built using Python, REST APIs, Git, HTML, and CSS.
+
+An AI-powered event planning assistant that automates planning workflows using LLMs.
+
+**Tech Stack**
+
+- Python
+- REST APIs
+- HTML
+- CSS
+- Git
 
 ### Features
-- AI-assisted workflow automation
-- LLM-powered planning
-- Input validation
+
+- AI-powered planning
+- Workflow automation
+- Validation
 - Error handling
-- REST API integration
+- REST API Integration
 
 ---
 
 ## 🎓 StudExa
 
-Student achievement management platform.
+A web platform for tracking student achievements.
 
-### Features
-- Achievement tracking
-- Certificate management
-- Research records
-- Hackathon records
+**Features**
+
+- Achievement Management
+- Certificates
+- Research Tracking
+- Hackathons
 - SQLite Database
 
----
+**Tech Stack**
 
-## 🎨 UI/UX Design Assets
-
-- Designed branding assets
-- Social media creatives
-- UI components using Canva
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQLite
 
 ---
 
 ## 🌐 Web & App Development
 
-- Backend development using Python
-- Frontend integration
-- Firebase implementation
-- Feature development
+Worked on backend and frontend features using Python and Firebase.
+
+---
+
+## 🎨 UI/UX Design
+
+Designed UI components, posters, branding assets, and promotional creatives using Canva.
+
+---
+
+# 💼 Experience
+
+## LLM Post-Training Intern
+
+**Ethara AI**
+*Jan 2026 – Apr 2026*
+
+- Prompt Optimization
+- AI Model Evaluation
+- Data Annotation
+- AI Workflow Development
+- Research Collaboration
 
 ---
 
@@ -131,20 +147,26 @@ Student achievement management platform.
 
 🏅 National Entrepreneurship Challenge
 
-🏅 INNOYUDH 2025 – Kurukshetra National Hackathon Participant
+🏅 INNOYUDH 2025 – Kurukshetra National Level Hackathon Participant
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyas992&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas992&layout=compact&theme=tokyonight" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shindeshreyas551&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindeshreyas551&layout=compact&theme=tokyonight"/>
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shreyas992&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=shindeshreyas551&theme=tokyonight"/>
 </p>
 
 ---
@@ -152,20 +174,20 @@ Student achievement management platform.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas992&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shindeshreyas551&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🌍 Languages
+# 🌎 Languages
 
-- 🇬🇧 English
-- 🇮🇳 Hindi
 - 🇮🇳 Marathi
+- 🇮🇳 Hindi
+- 🇬🇧 English
 
 ---
 
-# 🤝 Connect with Me
+# 📫 Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/shreyas-shinde">
@@ -176,25 +198,17 @@ Student achievement management platform.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shreyas992">
+<a href="https://github.com/shindeshreyas551">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-> *"Code. Learn. Build. Improve. Repeat."* 🚀
-<!--
-**shindeshreyas551/shindeshreyas551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 💡 *"Building intelligent software, one commit at a time."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting my profile!**
+
+</div>
