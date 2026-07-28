@@ -178,25 +178,23 @@ Designed UI components, posters, branding assets, and promotional creatives usin
 </p>
 
 ---
-
-
-# 📫 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shreyas-shinde">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/shreyas-shinde-b881b331b">
+    <img src="https://img.shields.io/badge/LinkedIn-Shreyas%20Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:shindeshreyas551@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:shindeshreyas551@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="https://github.com/shindeshreyas551">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/shindeshreyas551">
+    <img src="https://img.shields.io/badge/GitHub-shindeshreyas551-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+
 
 <div align="center">
 
