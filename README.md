@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Shreyas Shinde</h1>
 <h3 align="center">AI & Python Developer | Computer Science Student | Machine Learning Enthusiast</h3>
 
