@@ -1,54 +1,39 @@
 <h1 align="center">Hi 👋, I'm Shreyas Shinde</h1>
-<h3 align="center">🚀 AI & Python Developer | Computer Science Student | Machine Learning Enthusiast</h3>
+<h3 align="center">Python Developer | AI Enthusiast | Computer Science Student</h3>
 
 <p align="center">
   <a href="https://github.com/shindeshreyas551">
-    <img src="https://komarev.com/ghpvc/?username=shindeshreyas551&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=shindeshreyas551&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/shindeshreyas551"><img src="https://img.shields.io/github/followers/shindeshreyas551?label=Followers&style=social"/></a>
-  <a href="https://github.com/shindeshreyas551"><img src="https://img.shields.io/github/stars/shindeshreyas551?affiliations=OWNER&style=social"/></a>
-</p>
+---
+
+## 👨‍💻 About Me
+
+🎓 Third-Year B.Tech Computer Science Engineering student at **Sanjivani University**
+
+💻 Passionate about **Python development, AI-based tools, and Web Technologies.**
+
+🚀 Interested in building software that solves real-world problems through automation and intelligent systems.
+
+🌱 Currently improving my skills in Python development, REST APIs, and AI applications.
+
+📫 **Email:** shindeshreyas551@gmail.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/shreyas-shinde-b881b331b
 
 ---
 
-# 👨‍💻 About Me
+## 💻 Technical Skills
 
-🎓 Third-Year B.Tech Computer Science Engineering Student
-
-💡 Passionate about **Artificial Intelligence, Machine Learning, Python Development, and Backend Development.**
-
-🤖 Interested in building AI-powered applications, automation tools, and intelligent software solutions.
-
-🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Deep Learning
-- Computer Vision
-- REST APIs
-- Django & Flask
-
-💼 Former **LLM Post-Training Intern** at **Ethara AI**
-
-📫 **Email:** **shindeshreyas551@gmail.com**
-
-🔗 **LinkedIn:** https://linkedin.com/in/shreyas-shinde
-
-🌐 **GitHub:** https://github.com/shindeshreyas551
-
----
-
-# 💻 Tech Stack
-
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js"/>
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,flask"/>
@@ -60,69 +45,54 @@
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
-### Tools
+### Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🤖 SmartGuide
 
-An AI-powered event planning assistant that automates planning workflows using LLMs.
+**Tech Stack:** Python • REST APIs • Git • HTML • CSS
 
-**Tech Stack**
+An AI-powered event planning system that automates workflows using LLMs.
 
-- Python
-- REST APIs
-- HTML
-- CSS
-- Git
+### Highlights
 
-### Features
-
-- AI-powered planning
-- Workflow automation
-- Validation
-- Error handling
-- REST API Integration
+- Automated event planning workflows
+- Implemented validation and error handling
+- Built reliable automation using AI
 
 ---
 
 ## 🎓 StudExa
 
-A web platform for tracking student achievements.
+**Tech Stack:** HTML • CSS • JavaScript • Python • SQLite
 
-**Features**
+A web-based system to manage and track student achievements.
 
-- Achievement Management
+### Features
+
+- Track hackathons
+- Research records
 - Certificates
-- Research Tracking
-- Hackathons
-- SQLite Database
-
-**Tech Stack**
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQLite
+- Patents
 
 ---
 
-## 🌐 Web & App Development
+## 🎨 UI/UX Design Assets
 
-Worked on backend and frontend features using Python and Firebase.
+Designed digital creatives and UI components using **Canva** for branding and promotional activities.
 
 ---
 
-## 🎨 UI/UX Design
+## 🌐 Web & App Feature Development
 
-Designed UI components, posters, branding assets, and promotional creatives using Canva.
+Worked on backend and frontend feature development using **Python**.
 
 ---
 
@@ -131,75 +101,73 @@ Designed UI components, posters, branding assets, and promotional creatives usin
 ## LLM Post-Training Intern
 
 **Ethara AI**
-*Jan 2026 – Apr 2026*
 
-- Prompt Optimization
-- AI Model Evaluation
-- Data Annotation
-- AI Workflow Development
-- Research Collaboration
+**Jan 2026 – Apr 2026**
+
+- Assisted in AI model training.
+- Worked on prompt optimization.
+- Performed data evaluation.
+- Collaborated on AI/ML development workflows.
+- Participated in research tasks.
 
 ---
 
 # 🏆 Achievements
 
-🏅 Smart India Hackathon (SIH) Participant – 2025
-
 🏅 National Entrepreneurship Challenge
 
-🏅 INNOYUDH 2025 – Kurukshetra National Level Hackathon Participant
+🏅 Smart India Hackathon (SIH) Participant – 2025
+
+🏅 INNOYUDH 2025 – Kurukshetra 24-Hour National Level Hackathon Participant
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shindeshreyas551&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shindeshreyas551&show_icons=true&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindeshreyas551&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindeshreyas551&layout=compact&theme=github_dark"/>
 
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shindeshreyas551&theme=github-dark"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🌍 Languages
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shindeshreyas551&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shindeshreyas551&theme=tokyo-night"/>
-</p>
+- English
+- Marathi
+- Hindi
 
 ---
-## 🌐 Connect with Me
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shreyas-shinde-b881b331b">
-    <img src="https://img.shields.io/badge/LinkedIn-Shreyas%20Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/shreyas-shinde-b881b331b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:shindeshreyas551@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:shindeshreyas551@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/shindeshreyas551">
-    <img src="https://img.shields.io/badge/GitHub-shindeshreyas551-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/shindeshreyas551">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
-
+---
 
 <div align="center">
 
-### 💡 *"Building intelligent software, one commit at a time."*
+### ⭐ "Passionate about building practical software solutions with Python and AI."
 
-⭐ **Thanks for visiting my profile!**
+Thanks for visiting my profile!
 
 </div>
